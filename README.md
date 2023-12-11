@@ -2,11 +2,9 @@
 
 
 
-<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=As long as you keep smiling&size=20" > </a> </div>
+<!--<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=As long as you keep smiling&size=20" > </a> </div> -->
 
-<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=life will smile to you!&size=20" > </a> </div>
-
-
+<!--<div align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=life will smile to you!&size=20" > </a> </div> -->
 
 
 
